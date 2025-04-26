@@ -1,0 +1,77 @@
+{
+    "grimoirelab": {
+      "meta": {
+        "title": "GrimoireLab"
+      },
+      "git": [
+          "https://github.com/chaoss/grimoirelab.git"
+        ],
+        "github": [
+          "https://github.com/chaoss/grimoirelab.git"
+        ]
+    },
+    "micro-modered":{
+      "meta":{
+        "title":"Micro-modred"
+      },
+      "github":[
+        "https://github.com/chaoss/grimoirelab-sirmordred"
+      ]
+    },
+    "nightingale":{
+            "meta":{
+                "title":"Nightingale"
+            },
+            "gitlink":[
+                "https://www.gitlink.org.cn/ccfos/nightingale"
+             ],
+             "gitlink:pull":[
+                "https://www.gitlink.org.cn/ccfos/nightingale"
+             ],
+             "gitlink:repo":[
+                "https://www.gitlink.org.cn/ccfos/nightingale"
+             ]
+    },
+    "Xiuos":{
+            "meta":{
+                "title":"Xiuos"
+            },
+            "gitlink":[
+                "https://www.gitlink.org.cn/xuos/xiuos"
+            ],
+            "gitlink:pull":[
+               "https://www.gitlink.org.cn/xuos/xiuos"
+            ],
+            "gitlink:repo":[
+               "https://www.gitlink.org.cn/xuos/xiuos"
+            ]
+    },
+    "Openeuler":{
+            "meta":{
+                "title":"Openeuler"
+            },
+            "gitlink":[
+              "https://gitlink.org.cn/hrlsm/openeuler"
+            ],
+            "gitlink:pull":[
+               "https://gitlink.org.cn/hrlsm/openeuler"
+            ],
+            "gitlink:repo":[
+               "https://gitlink.org.cn/hrlsm/openeuler"
+            ]
+    },
+    "CrowdOS":{
+            "meta":{
+              "title":"CrowdOS"
+            },
+            "gitlink":[
+              "https://www.gitlink.org.cn/CrowdOS_WeSense/CrowdOS_WeSense"
+            ],
+            "gitlink:pull":[
+               "https://www.gitlink.org.cn/CrowdOS_WeSense/CrowdOS_WeSense"
+            ],
+            "gitlink:repo":[
+               "https://www.gitlink.org.cn/CrowdOS_WeSense/CrowdOS_WeSense"
+            ]
+    }
+  }
